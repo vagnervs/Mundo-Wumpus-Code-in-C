@@ -1,10 +1,10 @@
 # Mundo-Wumpus-Code-in-C
 
-O programa wumpus 1.0 apenas sorteia a distribuição das casas;
+• O programa wumpus 1.0 apenas sorteia a distribuição das casas;
 
-O programa wumpus 2.0 o é interativo (o usuario joga)
+• O programa wumpus 2.0 o é interativo (o usuario joga);
 
-O programa wumpus 3.0 o agente é inteligente
+• O programa wumpus 3.0 o agente é inteligente.
 
 Obs.:
 R=1 ou W=1 ou F=1 - fim de jogo 

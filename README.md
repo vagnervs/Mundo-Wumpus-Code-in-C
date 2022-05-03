@@ -1,5 +1,5 @@
 # Mundo-Wumpus-Code-in-C
- Programa Mundo de Wumpus
+
 O programa wumpus 1.0 apenas sorteia a distribuição das casas;
 
 O programa wumpus 2.0 o é interativo (o usuario joga)
